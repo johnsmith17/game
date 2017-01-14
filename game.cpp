@@ -67,6 +67,7 @@ struct Ball
 int main()
 {
 	cout << " LEVA STRAN : W/S , DESNA STRAN : PUSCICE ZA GOR/DOL ";
+	
 	RenderWindow window(VideoMode(screen_x, screen_y), "Pong");
 	window.setFramerateLimit(60);
 
@@ -186,6 +187,8 @@ int main()
 	}
 
 	//p.s. aljaž je papak
+
+	// this is a change
 
 	return 0;
 }
