@@ -186,9 +186,7 @@ int main()
 		
 	}
 
-	//p.s. alja je papak
 
-	// this is a change
 
 	return 0;
 }
